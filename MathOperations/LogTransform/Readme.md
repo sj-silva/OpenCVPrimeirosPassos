@@ -25,4 +25,8 @@ Buscaremos uma função do tipo
 
 ![](https://latex.codecogs.com/svg.image?f(x)=C\times&space;log(1&plus;x))
 
-Onde $$C$$ é determinado de modo que $$f(255)=255$$
+Onde o parâmetro **C** é determinado de modo que $$f(255)=255$$. Portanto temos:
+
+![](https://latex.codecogs.com/svg.image?C\times&space;log(1&plus;255)=255\Leftrightarrow&space;C=\frac{255}{log(256)})
+
+
